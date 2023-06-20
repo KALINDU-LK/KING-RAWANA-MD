@@ -24,7 +24,7 @@ Description : ${i.desc}\`\`\``
       let [date, time] = new Date()
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
-      let menu = `╭━━━━━ᆫ ${BOT_NAME} ᄀ━━━
+      let menu = `╭━━━━━ᆫ ${*𝗞𝙸𝙽𝙶 𝗥𝙰𝚅𝙰𝙽𝙰 𝗠𝗗*} ᄀ━━━
 ┃ ⎆  *OWNER* :  ${OWNER_NAME}
 ┃ ⎆  *PREFIX* : ${prefix}
 ┃ ⎆  *HOST NAME* :${hostname().split("-")[0]}
