@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (hermit-md)",
+  "name": "whatsapp-bot (rawana-md)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/KALINDU-LK/KING-RAWANA-MD.git",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -48,22 +48,22 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʀᴀᴡᴀɴᴀ-ᴍᴅ;ᴋᴀʟɪɴᴅᴜ;94758179948;https://telegra.ph/file/a96d2abca2782b9f73ff1.png"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "ʀᴀᴡᴀɴᴀ-ᴍᴅ;ᴋᴀʟɪɴᴅᴜ"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʀᴀᴡᴀɴᴀ-ᴍᴅ;ᴋᴀʟɪɴᴅᴜ💚;https://telegra.ph/file/a96d2abca2782b9f73ff1.png"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
   "ERROR_MESSAGE": {
       "description": "get error alert",
