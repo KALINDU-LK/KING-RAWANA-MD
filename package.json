@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "rawana-md",
   "version": "4.3.9",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "rawana-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start . --attach --name hermit-md"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "kalindu",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
