@@ -41,7 +41,7 @@ Function({
 			commandslist[command.type].push((match.length >= 3 ? (HANDLER + mmatch) : command.pattern).trim())
 		}
 	})
-	let msg = `╭━━━〔 ${BOT_INFO.split(";")[0]} ⁩〕━━━┈⊷
+	let msg = `╭━━━〔 ᴋɪɴɢ-ʀᴀᴡᴀɴᴀ-ᴍᴅ 💃⁩ 〕━━━┈⊷
 ┃✵╭──────────────
 ┃✵│ Owner : ${BOT_INFO.split(";")[1]}
 ┃✵│ User : ${m.pushName.replace( /[\r\n]+/gm, "" )}
@@ -69,7 +69,7 @@ Function({
 	await message.send(msg);
 	/* var img = await parsedUrl(BOT_INFO)
 	if (img.length == 0) {
-		img = ['https://i.imgur.com/qJUBCYm.jpeg']
+		img = ['https://telegra.ph/file/a96d2abca2782b9f73ff1.png']
 	}
 	const image = img[Math.floor(Math.random() * img.length)]
 	const type = image.endsWith('mp4') ? 'video' : 'image'
